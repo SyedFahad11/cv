@@ -1,0 +1,64 @@
+body{
+    background-color:lightgoldenrodyellow !important;/*  or delete bootstrap code */
+     margin-left:10px !important;
+    margin-top:auto important;
+  
+}
+.acad{
+    text-align: left;
+    border:1px solid gray ;
+    border-collapse:collapse;
+    padding-left:10px;
+
+}
+.acad-bord{
+    text-align: left;
+    border:1.2px  solid black;
+    border-collapse:collapse;
+    width: 80%;
+    height:150px;  
+}
+
+.acad-head{
+    background-color:darkolivegreen;
+    text-align: left;
+    border:1px solid gray ;
+    border-collapse:collapse;
+    color:white;
+    
+}
+
+#aca{
+    margin-top: 0%;
+}
+
+.details{
+    font:bold;
+
+}
+.list{
+    padding-left:15px;
+}
+
+
+.name{
+    font:bold;
+    text-align:center;
+    
+    
+}
+
+.obj{
+    line-height:0;
+    padding-bottom:15px;
+    padding-top:10px;
+}
+.pp{
+    height:200px;
+    width:200px;
+    display: block;
+    margin:40px auto 10px auto;
+
+
+}
+
